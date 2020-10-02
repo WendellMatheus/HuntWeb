@@ -1,5 +1,5 @@
 # HuntWeb
-💻  Aplicação feita durante o curso React JS na Rocketseat para consumir dados de uma API.
+💻  Aplicação desenvolvida durante o curso React JS na Rocketseat para consumir dados de uma API.
 
 🚀 _Tecnologias_
 
